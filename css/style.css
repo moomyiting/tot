@@ -1,14 +1,14 @@
 
 /* CSS Document */
 
-/* 
+/*
     Created on   : 26/02/2019.
     Last Update  : 07/04/2019.
     Theme Name   : Rogan - Creative Multi-Purpose HTML Template.
     Version      : 1.1.
     Author       : Creativegigs.
     Developed by : Jubayer al hasan. (me@heloshape.com)
-   
+
 */
 
 
@@ -161,7 +161,7 @@
 @import url('../vendor/tabs/tabs.css');
 
 
-/*** 
+/***
 
 ====================================================================
   Loading Transition
@@ -193,7 +193,7 @@
   animation: spinner 1s infinite linear;
   border-radius: 50%;
   border: 3px solid rgba(255, 57, 70, 0.15);
-  border-top-color: #ff3946; 
+  border-top-color: #ff3946;
   height: 170px;
   margin: 0 auto 45px auto;
   width: 170px;
@@ -740,7 +740,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   font-size: 15px;
   letter-spacing: 1px;
   display: block;
-  color: #212121; 
+  color: #212121;
   padding-top: 10px;
 }
 .theme-main-menu {
@@ -803,8 +803,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item .navbar .dropdown-item:focus,.theme-menu-one.d-align-item .navbar .dropdown-item:hover,
 .theme-menu-one.d-align-item .navbar .dropdown-submenu.dropdown:hover>.dropdown-item,.theme-menu-one.d-align-item .navbar .navbar-toggler,
 .theme-menu-one.d-align-item .navbar .mega-dropdown-list li a:hover,
-.theme-menu-one.d-align-item .navbar .mega-dropdown-list li a:hover .icon {color: #f569f8;}
-.theme-menu-one.d-align-item .navbar .mega-dropdown-list li a:hover .svg path {fill: #f569f8;}
+.theme-menu-one.d-align-item .navbar .mega-dropdown-list li a:hover .icon {color: rgb(50, 102, 255);}
+.theme-menu-one.d-align-item .navbar .mega-dropdown-list li a:hover .svg path {fill: rgb(50, 102, 255);}
 .theme-menu-one.d-align-item .navbar-nav .nav-item .nav-link {padding-bottom: 0;}
 .theme-menu-one.d-align-item .navbar-nav .nav-item .nav-link:before {
   content: '';
@@ -814,16 +814,16 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   left:1px;
   bottom: 5px;
   z-index: -1;
-  background: #f569f8;
+  background: rgb(50, 102, 255);
   transition: width 0.3s ease-out;
 }
 .theme-menu-one.d-align-item .header-right-widget .call-us a {color: #bebebe; margin-left: 0;}
-.theme-menu-one.d-align-item .header-right-widget .call-us a:hover {color: #f569f8;}
+.theme-menu-one.d-align-item .header-right-widget .call-us a:hover {color: rgb(50, 102, 255);}
 .theme-menu-one.d-align-item .navbar-nav .nav-item .nav-link:hover:before,
 .theme-menu-one.d-align-item .navbar-nav .nav-item.active .nav-link:before {width: 100%;}
 .theme-menu-one.d-align-item #mega-menu-holder {margin-right: 125px;}
 .theme-menu-one.d-align-item .header-right-widget {right: auto; left: 15%;}
-.theme-menu-one.d-align-item .logo {top:45px;left:75px;width: 63px;}
+.theme-menu-one.d-align-item .logo {top: 100px;left: 100px;width: 250px;}
 .theme-menu-one.d-align-item .navbar-nav .login-button a {
   width: 150px;
   line-height: 50px;
@@ -834,7 +834,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   text-align: center;
   margin-top: -12px;
 }
-.theme-menu-one.d-align-item .navbar-nav .login-button a:hover {background: #f569f8;color: #fff;}
+.theme-menu-one.d-align-item .navbar-nav .login-button a:hover {background: rgb(50, 102, 255);color: #fff;}
 .theme-menu-one.d-align-item .navbar-nav .login-button-two a {
   width: 150px;
   line-height: 48px;
@@ -955,8 +955,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   box-shadow: 0px 13px 35px -12px rgba(35,35,35,0.15);
   animation: menu_sticky  0.60s ease-in-out;
 }
-.theme-menu-one.d-align-item.fixed .logo {width: 63px;}
-.theme-menu-one.fixed.d-align-item .logo {top:5px;}
+.theme-menu-one.d-align-item.fixed .logo {width: 250px;}
+.theme-menu-one.fixed.d-align-item .logo {top:20px;}
 .theme-menu-one.fixed .navbar-nav .nav-item .nav-link,
 .theme-menu-two.fixed .navbar-nav .nav-item .nav-link {padding-bottom: 20px;}
 
@@ -1371,14 +1371,14 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   text-align: center;
   border-radius: 3px;
   color: #fff;
-  box-shadow: 0px 10px 40px 0px rgba(150,57,57,0.25);
-  background: linear-gradient( -135deg, rgb(191,108,255) 0%, rgb(144,65,255) 100%);
+  box-shadow: 0px 10px 40px 0px rgba(50,102,255,0.25);
+  background: linear-gradient(283deg, rgb(10, 84, 197), rgb(50, 102, 255));
   margin-right: 30px;
 }
 #theme-banner-four .main-wrapper .button-group .more-button:hover {box-shadow: none;}
 #theme-banner-four .main-wrapper .button-group .more-button i {vertical-align: -1px;margin-left: 5px;}
 #theme-banner-four .main-wrapper .button-group .video-button:hover,
-#theme-banner-four .main-wrapper .button-group .video-button:hover i {color: #f569f8;}
+#theme-banner-four .main-wrapper .button-group .video-button:hover i {color: rgb(50, 102, 255);}
 /*---------------------- Theme Main Banne Five -----------------------*/
 #theme-banner-five {
   background: linear-gradient( 145deg, rgb(132,0,252) 0%, rgb(17,222,244) 100%);
@@ -2310,7 +2310,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .sass-testimonial-section:before {
   content: 'D';
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   font-size: 400px;
   color: #FAFFFD;
   position: absolute;
@@ -2496,7 +2496,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .apps-testimonial .d-shape {
   position: absolute;
   font-size: 600px;
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   line-height: 420px;
   color: #fff;
   bottom: -60px;
@@ -2505,7 +2505,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .apps-testimonial .u-shape {
   position: absolute;
   font-size: 705px;
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   line-height: 420px;
   color: #fff;
   right: -199px;
@@ -2649,7 +2649,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   padding-bottom: 35px;
 }
 .agn-contact-banner .contact-button {
-  font-size: 20px; 
+  font-size: 20px;
   line-height: 56px;
   width: 220px;
 }
@@ -2712,7 +2712,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   animation: pulse 2s infinite linear;
 }
 .seo-contact-banner .d-shape {
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   font-size: 700px;
   position: absolute;
   line-height: 500px;
@@ -2759,7 +2759,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .sass-contact-banner .subscribe-button:hover {color: #fff;background: #233d63;}
 .sass-contact-banner .u-shape {
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   font-size: 705px;
   position: absolute;
   top:-500px;
@@ -2768,7 +2768,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: -1;
 }
 .sass-contact-banner .d-shape {
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   font-size: 700px;
   color: #FFFFFF;
   position: absolute;
@@ -4040,8 +4040,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-feature-sass .single-feature-block  .text-box .read-more:hover {
   color: #fff;
-  background: #f569f8;
-  border-color:#f569f8;
+  background: rgb(50, 102, 255);
+  border-color:rgb(50, 102, 255);
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box {
   position: absolute;
@@ -4113,7 +4113,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   content: url(../images/shape/shape-19.svg);
   position: absolute;
   top:50%;
-  left:50px; 
+  left:50px;
 }
 .our-feature-sass .section-shape-three {
   position: absolute;
@@ -4748,7 +4748,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: relative;
   margin: -8px 15px 0 0;
 }
-.eCommerce-search {width: 300px; position: relative;} 
+.eCommerce-search {width: 300px; position: relative;}
 .eCommerce-search input {
   width: 100%;
   border: none;
@@ -5116,7 +5116,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #eCommerce-carousel .color-tab ul li:nth-child(3):hover a{background: #ff4b68;}
 #eCommerce-carousel .brand-text {
   font-size: 400px;
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   color: #f8f8f8;
   position: absolute;
   right: -100px;
@@ -5505,8 +5505,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .cart-list-form .table th:first-child {text-align: left;}
 .cart-list-form .table tbody td {
-  padding: 0 0 70px; 
-  border: none; 
+  padding: 0 0 70px;
+  border: none;
   vertical-align: middle;
   text-align: center;
 }
@@ -6903,7 +6903,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
-  animation: imageBgAnim 40s infinite linear alternate; 
+  animation: imageBgAnim 40s infinite linear alternate;
 }
 .project-details-creative .pd-banner .container,
 .project-details-creative .pd-banner .container-inner {position: relative;height: 100%;}
@@ -7152,7 +7152,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   padding: 50px 0 40px;
   border-bottom: 1px solid #e5e5e5;
 }
-.blog-details .user-comment-area .single-comment.comment-reply {margin-left: 100px;} 
+.blog-details .user-comment-area .single-comment.comment-reply {margin-left: 100px;}
 .blog-details .user-comment-area .single-comment .reply {
   font-family: 'CircularStdmed';
   width: 70px;
@@ -7524,7 +7524,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   pointer-events: none;
   transform: scale3d(1.01,1.01,1);
 }
-.js .slide__img-wrap, 
+.js .slide__img-wrap,
 .js .slide__title-wrap,
 .js .slide__side {opacity: 0;pointer-events: none;}
 .js .slide--current .slide__img-wrap {
@@ -7596,7 +7596,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   margin: 0 1rem 0 0;
 }
 .project-creative .content__title {
-  font-family: 'CircularStdblck';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   margin: 10px 0;
   font-size: 40px;
   color: #212121;
@@ -8184,7 +8184,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-footer-four.light-v .bottom-footer {border-top-color: #ededed;}
 /*--------------------- Modal -------------------*/
 /*
-Modal animation 
+Modal animation
 */
 .modal .modal-dialog {transform: translate(0, 0); }
 .modal .fade-right {animation: fadeInLeft 0.5s;animation-direction: reverse; }
@@ -9000,7 +9000,7 @@ Modal animation
 .theme-footer-one.arch-footer .bottom-footer ul li a {color: #808080;}
 
 /*-----------------------------------
-            STUDIO PORTFOLIO ONE                 
+            STUDIO PORTFOLIO ONE
 --------------------------------------*/
 /*-------------- Header/Menu ------------*/
 .eCommerce-side-menu.op-page-menu-one {left: auto;right: 0;transform-origin: 100% 0%;}
@@ -9190,7 +9190,7 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
 .op-about-us-one .top-text p:first-letter {
   -webkit-initial-letter: 4 1;
           initial-letter: 4 1;
-  font-size: 136px; 
+  font-size: 136px;
   vertical-align: middle;
   margin-right: 10px;
   margin-bottom: 5px;
@@ -9496,7 +9496,7 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
 .op-footer-one .bottom-text ul li a:hover {color: #ff4649;}
 .op-footer-one .bottom-text  p {font-size: 18px;color: #c9c9c9;}
 /*-----------------------------------
-            STUDIO PORTFOLIO TWO                 
+            STUDIO PORTFOLIO TWO
 --------------------------------------*/
 .studio-box-container {padding: 50px; background: #efefef; z-index: 5;}
 .studio-box-container .main-page-wrapper {background: #fff; position: relative;}
@@ -9507,7 +9507,7 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
   position: relative;
   padding: 200px 100px 200px;
   max-width: 1920px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 #studio-banner-two .main-text-wrapper {position: relative; max-width: 600px;z-index: 2;}
 #studio-banner-two .main-text-wrapper h1 {
@@ -9528,7 +9528,7 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
 }
 /*---------------- Action Banner Three ---------------*/
 .action-banner-three {
-  padding: 70px 0 35px; 
+  padding: 70px 0 35px;
   margin-top: 50px;
   position: relative;
   z-index: 5;
