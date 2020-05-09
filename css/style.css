@@ -192,11 +192,11 @@
 .ctn-preloader .animation-preloader .spinner {
   animation: spinner 1s infinite linear;
   border-radius: 50%;
-  border: 3px solid rgba(255, 57, 70, 0.15);
-  border-top-color: #ff3946;
-  height: 170px;
+  border: 3px solid rgba(50, 102, 255, 0.15);
+  border-top-color: rgb(50, 102, 255);
+  height: 50px;
   margin: 0 auto 45px auto;
-  width: 170px;
+  width: 50px;
 }
 /* Texto cargando */
 .ctn-preloader .animation-preloader .txt-loading {
@@ -205,7 +205,7 @@
 }
 .ctn-preloader .animation-preloader .txt-loading .letters-loading:before {
   animation: letters-loading 4s infinite;
-  color: #ff3946;
+  color: rgb(50, 102, 255);
   content: attr(data-text-preloader);
   left: 0;
   opacity: 0;
@@ -214,13 +214,13 @@
   position: absolute;
 }
 .ctn-preloader .animation-preloader .txt-loading .letters-loading {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Muli', sans-serif;
   font-weight: 700;
-  letter-spacing: 15px;
+  letter-spacing: 5px;
   display: inline-block;
-  color: rgba(255, 57, 70, 0.15);
+  color: rgba(50, 102, 255, 0.15);
   position: relative;
-  font-size: 70px;
+  font-size: 36px;
   line-height: 70px;
 }
 .ctn-preloader .animation-preloader .txt-loading .letters-loading:nth-child(2):before {animation-delay: 0.2s;}
@@ -827,10 +827,10 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item .navbar-nav .login-button a {
   width: 150px;
   line-height: 50px;
-  background: #fef9da;
+  background: #ebf2ff;
   border-radius: 3px;
   font-size: 18px;
-  color: #ead24c;
+  color: #2196f3;
   text-align: center;
   margin-top: -12px;
 }
@@ -4217,8 +4217,8 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   border-radius: 3px;
   margin-top: 38px;
 }
-.our-feature-app .single-feature-box:nth-child(1) .text-wrapper .explore-button {color: #ead24c;background: #fef9da;}
-.our-feature-app .single-feature-box:nth-child(1) .text-wrapper .explore-button:hover {background: #ead24c;color: #fef9da;}
+.our-feature-app .single-feature-box:nth-child(1) .text-wrapper .explore-button {color: #2196f3;background: #ebf2ff;}
+.our-feature-app .single-feature-box:nth-child(1) .text-wrapper .explore-button:hover {background: #2196f3;color: #ebf2ff;}
 .our-feature-app .single-feature-box:nth-child(2) .text-wrapper .explore-button {color: #4ebef9;background: rgba(30,193,254,0.11);}
 .our-feature-app .single-feature-box:nth-child(2) .text-wrapper .explore-button:hover {background: #4ebef9; color: #e6f8ff;}
 .our-feature-app .single-feature-box:nth-child(3) .text-wrapper .explore-button {color: #ff8aa0;background: rgba(255,61,92,0.11);}
@@ -6483,7 +6483,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   border-radius: 3px;
 }
 .service-modren .service-block .service-info .tag.color-one {background: #ffeaee;color: #ff8aa0;}
-.service-modren .service-block .service-info .tag.color-two {background: #fef9da;color: #ead24c;}
+.service-modren .service-block .service-info .tag.color-two {background: #ebf2ff;color: #2196f3;}
 .service-modren .service-block .service-info .tag.color-three {background: #e7fff5;color: #70e9ae;}
 .service-modren .service-block .service-info .tag.color-four {background: #edf9ff;color: #7fd8ff;}
 
