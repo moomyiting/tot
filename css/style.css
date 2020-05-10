@@ -1245,7 +1245,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 /*---------------------------- Theme Main Banner Four -------------------------*/
 #theme-banner-four {position: relative;}
-#theme-banner-four .main-wrapper {padding: 290px 0 260px;position: relative;z-index: 5;}
+#theme-banner-four .main-wrapper {padding: 180px 0 260px;position: relative;z-index: 5;}
 #theme-banner-four .screen-one {
   position: absolute;
   right: 0;
