@@ -1249,16 +1249,18 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #theme-banner-four .screen-one {
   position: absolute;
   right: 0;
-  top:12%;
+  top:10%;
   z-index: 1;
-  width: 35%;
+  width: 40%;
+  filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
 }
 #theme-banner-four .screen-two {
   position: absolute;
-  right: 24%;
+  right: 28%;
   top:27%;
   z-index: 1;
-  width: 22%;
+  width:26%;
+  filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
 }
 #theme-banner-four .shape-one {
   position: absolute;
