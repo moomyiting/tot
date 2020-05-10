@@ -823,7 +823,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-menu-one.d-align-item .navbar-nav .nav-item.active .nav-link:before {width: 100%;}
 .theme-menu-one.d-align-item #mega-menu-holder {margin-right: 125px;}
 .theme-menu-one.d-align-item .header-right-widget {right: auto; left: 15%;}
-.theme-menu-one.d-align-item .logo {top: 100px;left: 100px;width: 250px;}
+.theme-menu-one.d-align-item .logo {top: 60%;left: 100px;width: 250px;}
 .theme-menu-one.d-align-item .navbar-nav .login-button a {
   width: 150px;
   line-height: 50px;
@@ -4059,29 +4059,42 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-one {
   position: absolute;
-  top:-50px;
-  left:10px;
+  top:10%;
+  left:100px;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-two {
   position: absolute;
-  top:30px;
+  top:30%;
   left:42%;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-three {
   position: absolute;
-  top:42%;
+  top:30%;
   left:12%;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-four {
   position: absolute;
-  top:59%;
-  left:55%;
+  top:40%;
+  left:60%;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
+}
+.our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-five {
+  position: absolute;
+  top:60%;
+  left:5%;
+  filter: drop-shadow(12px 12px 30px rgba(33, 150, 243, .5));
+  width: 50vw;
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(even) .img-box {
   position: absolute;
-  right: 0;
+  right: 30px;
   top:-80px;
   z-index: -1;
+  width: 50vw;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(even) .img-box .main-shape {
   position: absolute;
@@ -4092,6 +4105,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: absolute;
   right: 45px;
   top:-130px;
+  filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .section-shape-one {
   width: 8px;

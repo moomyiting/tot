@@ -163,7 +163,7 @@
   .theme-menu-two .quote-button {right: 100px;top:15px;}
   .theme-menu-two .navbar .navbar-toggler,.theme-menu-one.d-align-item.app-menu .navbar .navbar-toggler {color: #fff;}
   .theme-menu-three .navbar .navbar-toggler {color: #e1a34c;}
-  .theme-menu-two .logo,.theme-menu-one.d-align-item .logo {top:10px;}
+  .theme-menu-two .logo,.theme-menu-one.d-align-item .logo {top:40%;}
   .theme-menu-two #navbarSupportedContent,.app-menu #navbarSupportedContent {background: #1b1d3d;}
   .theme-menu-three #navbarSupportedContent { background: rgba(29,31,66,0.98);}
   .theme-menu-two #mega-menu-holder .dropdown-toggle::after,.theme-menu-one.app-menu #mega-menu-holder .dropdown-toggle::after {right: 10px;}
