@@ -161,6 +161,10 @@
 @import url('../vendor/tabs/tabs.css');
 
 
+
+html{
+  scroll-behavior: smooth;
+}
 /***
 
 ====================================================================
@@ -4079,6 +4083,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: absolute;
   top:30%;
   left:60%;
+  height: 60vh;
   filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-five {
