@@ -9797,8 +9797,9 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
 
 
 .functions-img{
-  padding-top: 80px;
+  padding: 80px 0 0 30px;
   filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
+
 }
 
 .functions-wrappers-text{
