@@ -4079,7 +4079,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-four {
   position: absolute;
-  top:40%;
+  top:30%;
   left:60%;
   filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
 }
