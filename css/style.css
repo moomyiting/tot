@@ -3972,7 +3972,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .partner-slider a:hover,.partner-slider .center a {opacity: 1;transform: scale(1.1);}
 /*----------------------- Our Feature/SASS ---------------------*/
 .our-feature-sass {
-  background: url(../images/shape/bg3.png) no-repeat top 81% right;
+  /*background: url(../images/shape/bg3.png) no-repeat top 81% right;*/
   padding: 0 0 20px;
   position: relative;
   z-index: 1;
