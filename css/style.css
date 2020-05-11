@@ -512,7 +512,7 @@ body .dark-button-one {
 .seo-our-pricing .single-pr-table .pr-footer .trial-button,.seo-contact-banner .contact-button,.theme-menu-three .header-right-widget .social-icon li a,.nav-tabs .nav-link,.theme-footer-four .social-icon li a,
 .about-me-portfo .inner-content .button-group li a,.our-service-portfo .service-block .read-more,.isotop-menu-wrapper li,.our-project-portfo .text-content .gallery-button,.btn,
 .portfo-footer form .input-group label,.portfo-footer form button,.portfo-footer .copyright-text .social-icon li a,.theme-menu-one .header-right-widget .call-us a,.theme-menu-one .navbar-nav .login-button a,
-.our-service-sass .service-block .icon-s,.our-service-sass .service-block p,#theme-banner-four .main-wrapper .button-group .more-button,.checkout-toggle-area p button,.theme-footer-four .footer-list ul li a,
+.our-service-sass .service-block .icon-s,.our-service-sass .service-block p,#banner .main-wrapper .button-group .more-button,.checkout-toggle-area p button,.theme-footer-four .footer-list ul li a,
 .our-service-sass .service-block .detail-button,.our-feature-sass .down-arrow,.our-feature-sass .single-feature-block  .text-box .read-more,.sass-our-pricing .single-pr-table .upgrade-button:before,
 .sass-our-pricing .single-pr-table .upgrade-button,.sass-our-pricing .single-pr-table .trial-button,.sass-faq-section .sub-heading a,.sass-faq-section .down-button,.eCommerce-side-menu .main-menu-list>ul>li>a,
 .theme-menu-one.d-align-item .navbar-nav .login-button-two a,.our-service-app .main-content .more-button,.our-service-app .main-content .down-arrow,.our-feature-app .text-wrapper .explore-button,
@@ -1248,9 +1248,9 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: -1;
 }
 /*---------------------------- Theme Main Banner Four -------------------------*/
-#theme-banner-four {position: relative;}
-#theme-banner-four .main-wrapper {padding: 180px 0 260px;position: relative;z-index: 5;}
-#theme-banner-four .screen-one {
+#banner {position: relative;}
+#banner .main-wrapper {padding: 180px 0 260px;position: relative;z-index: 5;}
+#banner .screen-one {
   position: absolute;
   right: 0;
   top:10%;
@@ -1258,7 +1258,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   width: 40%;
   filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
 }
-#theme-banner-four .screen-two {
+#banner .screen-two {
   position: absolute;
   right: 28%;
   top:27%;
@@ -1266,34 +1266,34 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   width:26%;
   filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
 }
-#theme-banner-four .shape-one {
+#banner .shape-one {
   position: absolute;
   right: 0;
   top:145px;
   z-index: 0;
   opacity: 0.65;
 }
-#theme-banner-four .shape-two {
+#banner .shape-two {
   position: absolute;
   bottom: 12%;
   left:31%;
   animation: rotated 20s infinite linear;
 }
-#theme-banner-four .shape-three {
+#banner .shape-three {
   position: absolute;
   bottom: 19%;
   right: 4%;
   z-index: -1;
   animation: rotated 50s infinite linear;
 }
-#theme-banner-four .shape-four {
+#banner .shape-four {
   position: absolute;
   top: 17%;
   right: 37%;
   z-index: -1;
   animation: rotatedHalf 30s infinite linear;
 }
-#theme-banner-four .round-shape-one {
+#banner .round-shape-one {
   width: 20px;
   height: 20px;
   border: 3px solid #fe8f8f;
@@ -1303,7 +1303,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   left:36%;
   animation: animationFramesOne 15s infinite linear;
 }
-#theme-banner-four .round-shape-two {
+#banner .round-shape-two {
   width: 7px;
   height: 7px;
   background: #d5eeff;
@@ -1313,7 +1313,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   left:8%;
   animation: animationFramesTwo 13s infinite linear;
 }
-#theme-banner-four .round-shape-three {
+#banner .round-shape-three {
   position: absolute;
   width: 8px;
   height: 8px;
@@ -1323,7 +1323,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   left: 6%;
   animation: animationFramesTwo 15s infinite linear;
 }
-#theme-banner-four .round-shape-four {
+#banner .round-shape-four {
   position: absolute;
   right: 26%;
   bottom: 20%;
@@ -1333,7 +1333,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   border:1px solid #fbfbfb;
   animation: rotated 10s infinite linear;
 }
-#theme-banner-four .round-shape-four:before {
+#banner .round-shape-four:before {
   content: "";
   width: 10px;
   height: 10px;
@@ -1343,7 +1343,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   background: #ddabf6;
   border-radius: 50%;
 }
-#theme-banner-four .main-wrapper .slogan {
+#banner .main-wrapper .slogan {
   display: inline-block;
   background: #FBFBFF;
   border: 1px solid #E9E9E9;
@@ -1353,26 +1353,26 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #677180;
   border-radius: 18px;
 }
-#theme-banner-four .main-wrapper .slogan span {color: #FF605E;}
-#theme-banner-four .main-wrapper .main-title {
+#banner .main-wrapper .slogan span {color: #FF605E;}
+#banner .main-wrapper .main-title {
   font-size: 70px;
   line-height: 80px;
   padding: 25px 0 35px;
   font-weight: bolder;
 }
-#theme-banner-four .main-wrapper .sub-title {
+#banner .main-wrapper .sub-title {
   font-size: 20px;
   line-height: 32px;
   color: #8b8e92;
   padding-bottom: 28px;
 }
-#theme-banner-four .main-wrapper .button-group li {
+#banner .main-wrapper .button-group li {
   display: inline-block;
   vertical-align: middle;
   margin-top: 5px;
   line-height: 55px;
 }
-#theme-banner-four .main-wrapper .button-group .more-button {
+#banner .main-wrapper .button-group .more-button {
   width: 185px;
   line-height: 50px;
   text-align: center;
@@ -1382,10 +1382,10 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   background: linear-gradient(283deg, rgb(10, 84, 197), rgb(50, 102, 255));
   margin-right: 30px;
 }
-#theme-banner-four .main-wrapper .button-group .more-button:hover {box-shadow: none;}
-#theme-banner-four .main-wrapper .button-group .more-button i {vertical-align: -1px;margin-left: 5px;}
-#theme-banner-four .main-wrapper .button-group .video-button:hover,
-#theme-banner-four .main-wrapper .button-group .video-button:hover i {color: rgb(50, 102, 255);}
+#banner .main-wrapper .button-group .more-button:hover {box-shadow: none;}
+#banner .main-wrapper .button-group .more-button i {vertical-align: -1px;margin-left: 5px;}
+#banner .main-wrapper .button-group .video-button:hover,
+#banner .main-wrapper .button-group .video-button:hover i {color: rgb(50, 102, 255);}
 /*---------------------- Theme Main Banne Five -----------------------*/
 #theme-banner-five {
   background: linear-gradient( 145deg, rgb(132,0,252) 0%, rgb(17,222,244) 100%);
