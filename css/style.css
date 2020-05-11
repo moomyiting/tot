@@ -388,7 +388,7 @@ body .video-button-one i {font-size: 50px;color: #D8D8D8;vertical-align: middle;
 body .video-button-one .icon-right {margin-left: 10px;}
 body .video-button-one .icon-left {margin-right: 10px;}
 body .theme-button-one {
-  font-family: 'CircularStdmed';
+
   width: 220px;
   line-height: 56px;
   text-align: center;
@@ -490,7 +490,7 @@ body .white-shdw-button .icon {
 }
 body .white-shdw-button:hover {color: #fff;box-shadow: 0px 13px 28px 0px rgba(163, 48, 53, 0.25);}
 body .dark-button-one {
-  font-family: 'CircularStdmed';
+
   line-height: 50px;
   padding: 0 40px;
   font-size: 16px;
@@ -990,7 +990,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 #theme-banner-one .main-wrapper .slogan span {color: #FF605E;}
 #theme-banner-one .main-wrapper .main-title {
-  font-family: 'CircularStdmed';
+
   font-size: 70px;
   line-height: 80px;
   padding: 25px 0 35px;
@@ -1165,7 +1165,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   max-width: 47%;
 }
 #theme-banner-two .main-title {
-  font-family: 'CircularStdmed';
+
   font-size: 60px;
   line-height: 72px;
   color: #fff;
@@ -1351,10 +1351,10 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 #theme-banner-four .main-wrapper .slogan span {color: #FF605E;}
 #theme-banner-four .main-wrapper .main-title {
-  font-family: 'CircularStdmed';
   font-size: 70px;
   line-height: 80px;
   padding: 25px 0 35px;
+  font-weight: bolder;
 }
 #theme-banner-four .main-wrapper .sub-title {
   font-size: 20px;
@@ -1484,7 +1484,6 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 #theme-banner-five .main-wrapper {padding: 300px 0 215px 15%;}
 #theme-banner-five .main-title {
-  font-family: 'CircularStdmed';
   font-size: 60px;
   line-height: 72px;
   color: #fff;
@@ -1693,7 +1692,6 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #808C9F;
 }
 .agn-about-us .text-wrapper .author .name {
-  font-family: 'CircularStdmed';
   font-size: 20px;
   color: #233D63;
 }
@@ -2249,7 +2247,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .portfo-testimonial .theme-title-two {padding-bottom: 95px;}
 .portfo-testimonial .inner-title {
-  font-family: 'CircularStdmed';
+
   color:#fff;
   font-size: 48px;
   line-height: 65px;
@@ -2375,7 +2373,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #303858;
 }
 .sass-testimonial-section .inner-container .name {
-  font-family: 'CircularStdmed';
+
   font-size: 18px;
   text-transform: uppercase;
   color: #303858;
@@ -3605,7 +3603,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   transition: all 3s ease-in-out;
 }
 .skill-section-portfo .skill-bar .progress-bar .percent-text {
-  font-family: 'CircularStdmed';
+
   font-size: 72px;
   color: #fff;
   position: absolute;
@@ -4439,7 +4437,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   min-height: 330px;
 }
 .sass-our-pricing .single-pr-table .pr-body .feature {
-  font-family: 'CircularStdmed';
+
   font-size: 20px;
   color: #303858;
   padding-bottom: 15px;
@@ -4861,7 +4859,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-Ecommerce-menu .right-content .cart-action-wrapper .subtotal .total-price {font-size: 20px;color: #1f1f1f}
 .theme-Ecommerce-menu .right-content .cart-action-wrapper .subtotal {padding-bottom: 7px;}
 .theme-Ecommerce-menu .right-content .cart-action-wrapper .button-group a {
-  font-family: 'CircularStdmed';
+
   display: block;
   line-height: 45px;
   border: 1px solid #dbdbdb;
@@ -5151,7 +5149,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .eCommerce-hero-section .social-share li {
   display: inline-block;
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   color: #3c3c3c;
   text-transform: uppercase;
@@ -5267,7 +5265,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   transform: scale(1);
 }
 .theme-sidebar-widget .sidebar-title {
-  font-family: 'CircularStdmed';
+
   font-size: 24px;
   color: #1d1d1d;
   padding-bottom: 30px;
@@ -5428,7 +5426,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .theme-sidebar-widget .sidebar-popular-product li {margin-bottom: 30px;}
 .theme-sidebar-widget .sidebar-popular-product li:last-child {margin: 0;}
 .theme-sidebar-widget .recent-news-item .rn-title {
-  font-family: 'CircularStdmed';
+
   font-size: 20px;
   line-height: 28px;
   margin-bottom: 8px;
@@ -5600,7 +5598,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .cart-section .cart-footer .cart-total-section {padding-right: 82px;}
 /*--------------------- CheckOut Page -----------------*/
 .checkout-form .main-title {
-  font-family: 'CircularStdmed';
+
   font-size:28px;
   color: #1d1d1d;
   padding-bottom: 55px;
@@ -5645,7 +5643,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .checkout-form .selectize-control.single .selectize-input:after {right: 8px;}
 .checkout-form .checkbox-list li label {
   position: relative;
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   line-height: 15px;
   padding-left: 30px;
@@ -5676,7 +5674,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .checkout-form .checkbox-list {padding-bottom: 55px;}
 .checkout-form .other-note-area p {
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   color: #1a1a1a;
   padding-bottom: 8px;
@@ -5694,7 +5692,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   padding: 50px 40px;
 }
 .checkout-form .order-confirm-sheet .order-review .product-review {width: 100%;}
-.checkout-form .order-confirm-sheet .order-review .product-review tr {font-family: 'CircularStdmed';}
+.checkout-form .order-confirm-sheet .order-review .product-review tr {}
 .checkout-form .order-confirm-sheet .order-review .product-review tbody th span {
   font-size: 18px;
   color: #242424;
@@ -5727,7 +5725,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .checkout-form .order-confirm-sheet .order-review .payment-list li p {font-size: 15px;line-height: 22px;padding-bottom: 15px;}
 .checkout-form .order-confirm-sheet .order-review .payment-list li label {
   position: relative;
-  font-family: 'CircularStdmed';
+
   font-size: 18px;
   line-height: 15px;
   color: #1a1a1a;
@@ -5765,7 +5763,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .checkout-form .order-confirm-sheet .order-review .payment-list {padding: 30px 0 15px;border-bottom: 1px solid #e9e9e9;}
 .checkout-form .credit-card-form {margin-top: 25px; display: none;}
 .checkout-form .credit-card-form h6 {
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   padding-bottom: 5px;
 }
@@ -5787,7 +5785,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .checkout-form .order-confirm-sheet .agreement-checkbox label {
   position: relative;
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   color: #1a1a1a;
   cursor: pointer;
@@ -5848,7 +5846,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .solid-inner-banner.white-bg {background: #fff;}
 .solid-inner-banner .page-title {
-  font-family: 'CircularStdmed';
+
   font-size: 60px;
   color: #313131;
   padding-bottom: 150px;
@@ -5891,7 +5889,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .shop-details .procuct-details .product-info .rating li:nth-child(6) {margin: 0 10px;}
 .shop-details .procuct-details .product-info .rating li i {color: #ffbd3a;}
 .shop-details .procuct-details .product-info .price {
-  font-family: 'CircularStdmed';
+
   display: block;
   font-weight: normal;
   font-size: 32px;
@@ -5958,7 +5956,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .shop-details .procuct-details .product-info .color-filter li:nth-child(4):hover a{background: #ffd657;}
 .shop-details .procuct-details .product-info .customize-order {margin-bottom: 50px;}
 .shop-details .procuct-details .product-info .cart-button {
-  font-family: 'CircularStdmed';
+
   width: 155px;
   line-height: 46px;
   font-size: 14px;
@@ -5971,7 +5969,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .shop-details .procuct-details .product-info .cart-button:hover {background: #fff;}
 .shop-details .procuct-details .product-info .wishlist-button {
-  font-family: 'CircularStdmed';
+
   width: 190px;
   line-height: 48px;
   font-size: 14px;
@@ -6050,7 +6048,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .user-comment-area .single-comment .user-img {width: 60px;height: 60px;border-radius: 50%;}
 .user-comment-area .single-comment .user-comment-data {padding-left: 30px;position: relative;}
 .user-comment-area .single-comment .user-comment-data .name {
-  font-family: 'CircularStdmed';
+
   font-size: 20px;
   color: #3e3e3e;
   padding-bottom: 5px;
@@ -6285,7 +6283,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .about-us-standard .single-block .author-data {padding: 38px 0 0 40px;}
 .about-us-standard .single-block .author-data .name {
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   text-transform: uppercase;
   color: #3e3e3e;
@@ -6376,7 +6374,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: -1;
 }
 .theme-action-banner-two .title {
-  font-family: 'CircularStdmed';
+
   font-size: 48px;
   color: #fff;
   padding: 0 200px;
@@ -6563,7 +6561,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   text-transform: uppercase;
   margin-bottom: 25px;
 }
-.our-project .project-item .title span {font-family: 'CircularStdmed';text-decoration: underline;}
+.our-project .project-item .title span {text-decoration: underline;}
 #isotop-gallery-wrapper .isotop-item .hover-jojo .title a {
   opacity: 0;
   transform: translate3d(-360px,0,0);
@@ -6751,7 +6749,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .project-with-sidebar .project-item:hover .img-box a {opacity: 1;}
 .project-with-sidebar .project-item:hover .img-box a .svg {top:50%;}
 .project-with-sidebar .page-title {
-  font-family: 'CircularStdmed';
+
   font-size: 60px;
   color: #313131;
   padding: 100px 0 80px;
@@ -6827,7 +6825,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   margin: 0 auto;
 }
 .project-details .share-icon li {
-  font-family: 'CircularStdmed';
+
   display: inline-block;
   font-size:18px;
   text-transform: uppercase;
@@ -6847,7 +6845,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   padding-bottom: 25px;
 }
 .project-details .project-info .list-title {
-  font-family: 'CircularStdmed';
+
   font-size: 20px;
   color: #3e3e3e;
   text-transform: uppercase;
@@ -6890,7 +6888,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .project-details .pd-body p {font-size: 18px;line-height: 32px;color: #a4a7ac;}
 .project-details-agency .pd-img-box {margin: 68px 0 90px;}
 .project-details-agency .pd-body .sub-heading {
-  font-family: 'CircularStdmed';
+
   font-size: 24px;
   line-height: 35px;
   color: #3e3e3e;
@@ -6987,13 +6985,13 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .our-blog .post-data .date {font-size: 20px;color: #b5b5b5;text-transform: capitalize;}
 .our-blog .post-data .date:hover {color: #363636;text-decoration: underline;}
 .our-blog .post-data .blog-title-one {
-  font-family: 'CircularStdmed';
+
   font-size: 24px;
   line-height: 35px;
   color: #3e3e3e;
 }
 .our-blog .post-data .blog-title-two {
-  font-family: 'CircularStdmed';
+
   font-size: 28px;
   line-height: 40px;
 }
@@ -7024,7 +7022,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .our-blog .bg-solid-post.single-blog-post.show-pr .post-data:before {top:45px;opacity: 1;}
 .our-blog .bg-solid-post.single-blog-post .post-data .title {
-  font-family: 'CircularStdmed';
+
   font-size: 36px;
   line-height: 50px;
   margin: 0 0 38px;
@@ -7055,14 +7053,14 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .blog-filter-title {text-align: center;padding: 270px 0 100px;}
 .blog-filter-title .upper-title {
-  font-family: 'CircularStdmed';
+
   font-size: 16px;
   text-transform: uppercase;
   color: rgba(62,62,62,0.3);
   padding-bottom: 45px;
 }
 .blog-filter-title .main-title {
-  font-family: 'CircularStdmed';
+
   font-size: 60px;
   line-height: 60px;
   color: #313131;
@@ -7070,7 +7068,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .blog-filer {padding-left: 50px;padding-right: 50px;}
 .blog-filer .blog-filter-nav {border-bottom: 1px solid #5d5d5d;margin-bottom: 80px;}
 .blog-filer .blog-filter-nav li {
-  font-family: 'CircularStdmed';
+
   float: left;
   width: 16.66666666%;
   text-align: center;
@@ -7129,7 +7127,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   left:0;
 }
 .blog-details .post-data .bold-text {
-  font-family: 'CircularStdmed';
+
   font-size: 20px;
   line-height: 32px;
   color: #3e3e3e;
@@ -7140,11 +7138,11 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   font-size: 20px;
   color: #3e3e3e;
 }
-.blog-details .post-tag-area .tags li:first-child {font-family: 'CircularStdmed';}
+.blog-details .post-tag-area .tags li:first-child {}
 .blog-details .post-tag-area .tags li a {font-size: 18px;color: #989ca2;}
 .blog-details .post-tag-area .tags li a:hover {color: #3e3e3e;}
 .blog-details .post-tag-area .share-icon li {
-  font-family: 'CircularStdmed';
+
   display: inline-block;
   font-size:20px;
   color: #3e3e3e;
@@ -7157,7 +7155,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 .blog-details .post-tag-area ul {padding-bottom: 20px;}
 .blog-details .post-tag-area {border-bottom: 1px solid #e5e5e5;padding-bottom: 10px;}
 .blog-details .inner-block-title {
-  font-family: 'CircularStdmed';
+
   font-size: 36px;
   color: #3e3e3e;
   padding-bottom: 28px;
@@ -7172,7 +7170,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .blog-details .user-comment-area .single-comment.comment-reply {margin-left: 100px;}
 .blog-details .user-comment-area .single-comment .reply {
-  font-family: 'CircularStdmed';
+
   width: 70px;
   height: 30px;
   border:2px solid #e7e7e7;
@@ -7220,7 +7218,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .blog-details .blog-hero-banner .date {font-size: 20px;color: #fff;margin-bottom: 30px;}
 .blog-details .blog-hero-banner .blog-title {
-  font-family: 'CircularStdmed';
+
   font-size: 48px;
   line-height: 55px;
   color: #fff;
@@ -7234,7 +7232,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 }
 .blog-details-fg .blog-fg-data .custom-container-bg {padding: 0 75px 0; background: #fff;}
 .blog-details-fg .blog-fg-data .post-data .sub-heading {
-  font-family: 'CircularStdmed';
+
   font-size: 28px;
   color: #3d3d3d;
   padding: 30px 0 25px;
@@ -7340,7 +7338,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 #contact-form button {margin-top: 35px;}
 .contact-us-section .contact-info {padding-left: 100px;}
 .contact-us-section .contact-info .title {
-  font-family: 'CircularStdmed';
+
   font-size: 42px;
   line-height: 55px;
   color: #3e3e3e;
@@ -7402,7 +7400,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   color: #fff;
 }
 .form-style-three .send-button {
-  font-family: 'CircularStdmed';
+
   width: 193px;
   line-height: 51px;
   border: 2px solid #fff;
@@ -7562,7 +7560,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   font-weight: bold;
   color: #fff;
 }
-.project-creative .slide__title {font-family: 'CircularStdmed';color: #fff;}
+.project-creative .slide__title {color: #fff;}
 .project-creative .slide__number::before {
   content: "\2014";
   display: inline-block;
@@ -8048,7 +8046,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
 /*------------------- Breadcrumbs ----------------*/
 .breadcrumbs-two {background: #fafcff;padding: 265px 0 150px;}
 .breadcrumbs-two .page-title {
-  font-family: 'CircularStdmed';
+
   font-size: 55px;
   color: #313131;
 }
@@ -8069,7 +8067,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   z-index: 1;
 }
 .breadcrumbs-three .page-title {
-  font-family: 'CircularStdmed';
+
   font-size: 60px;
   padding-bottom: 15px;
 }
@@ -8087,7 +8085,7 @@ body .solid-button-one:hover,.navbar .navbar-toggler,.faq-tab-wrapper .faq-panel
   position: relative;
   z-index: 1;
 }
-.breadcrumbs-four .page-title {font-family: 'CircularStdmed';font-size: 55px;}
+.breadcrumbs-four .page-title {font-size: 55px;}
 .breadcrumbs-four .page-breadcrumbs li {
   display: inline-block;
   font-size: 22px;
@@ -8416,7 +8414,7 @@ Modal animation
 .shrt-menu .main-header .cart-action-wrapper .subtotal .total-price {font-size: 20px;color: #1f1f1f}
 .shrt-menu .main-header .cart-action-wrapper .subtotal {padding-bottom: 7px;}
 .shrt-menu .main-header .cart-action-wrapper .button-group a {
-  font-family: 'CircularStdmed';
+
   display: block;
   line-height: 45px;
   border: 1px solid #dbdbdb;
@@ -8646,7 +8644,7 @@ Modal animation
   letter-spacing: 1.4px;
 }
 #arch-carousel .inner-item-wrapper .main-title {
-  font-family: 'CircularStdmed';
+
   font-size: 78px;
   line-height: 82px;
   color: #191919;
@@ -8988,7 +8986,7 @@ Modal animation
 .arch-contact .form-wrapper form textarea {height: 105px; max-height: 105px;resize:none;}
 .arch-contact .form-wrapper form button {width: 190px;line-height: 55px;text-transform: uppercase;}
 .arch-contact .form-wrapper .contact-text {padding-left: 50px;}
-.arch-contact .form-wrapper .contact-text .main-title {font-family: 'CircularStdmed';}
+.arch-contact .form-wrapper .contact-text .main-title {}
 .arch-contact .form-wrapper .contact-text p {
   font-size: 20px;
   color: #959595;
