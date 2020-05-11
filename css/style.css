@@ -313,7 +313,7 @@
        url('../fonts/font-awesome/fonts/fontawesome-webfont.svg') format('svg'); /* Legacy iOS */
  }
  body {
-  font-family: 'CircularStd-book';
+  font-family: -apple-system,system-ui,BlinkMacSystemFont,pingfang-tc,aktiv-grotesk,source-han-sans-traditional,Segoe UI,Roboto,Helvetica Neue,Microsoft JhengHei,Microsoft YaHei,Helvetica,Arial,sans-serif;
   font-weight: normal;
   color:#57667E;
   font-size: 17px;
@@ -9791,3 +9791,34 @@ html[lang="ru"] .op-menu-one .ct-language__dropdown li a[data-lang="ru"] {color:
 .studio-footer-one .bottom-footer ul li {display: inline-block;}
 .studio-footer-one .bottom-footer ul li a {color: rgba(255,255,255,0.5); margin: 0 5px;}
 .studio-footer-one .bottom-footer ul li a:hover {color: #fff;}
+
+
+
+
+
+.functions-img{
+  padding-top: 80px;
+  filter: drop-shadow(12px 12px 10px rgba(63, 81, 181, .1));
+}
+
+.functions-wrappers-text{
+  color: #233D63;
+  font: 800 30px/30px Axiforma,Arial,serif;
+  background: #fff;
+  max-width: 100%;
+  box-shadow: 0 5px 15px rgba(0,0,0,.1);
+  border-radius: 4px;
+  border-top-right-radius: 60px;
+  padding: 25px 35px 20px 20px;
+  position: absolute;
+  left: 50px;
+  top: 10px;
+}
+
+.functions-wrappers-desc{
+  color: #666;
+  margin-top: 60px;
+  font-weight: 200;
+  line-height: 2em;
+  font-size: 1em;
+}

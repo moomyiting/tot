@@ -7,7 +7,7 @@
 *	@copyright      Copyright (c) 2013 Zozo UI
 *   @author         Zozo UI
 *   @URL:           http://www.zozoui.com
-*   
+*
 ***************************************************************************/
 .z-tabs, .z-tabs > ul, .z-tabs > ul > li, .z-tabs > ul > li > a, .z-tabs > .z-container, .z-tabs > .z-container > .z-content, .z-tabs > .z-container > .z-content > .z-content-inner  {
     -moz-box-sizing:  content-box;
@@ -60,7 +60,6 @@
     position:  absolute;
      width:  100%;
      height:  100%;
-     overflow:  hidden;
      padding:  0;
      z-index:  7;
      display:  none;
@@ -1533,4 +1532,3 @@
      -webkit-touch-callout:  none;
      outline:  none;
 }
- 
