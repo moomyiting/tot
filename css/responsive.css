@@ -54,7 +54,7 @@
   #theme-banner-three .main-title span, #theme-banner-three .main-title span b {line-height: initial;}
   .our-feature-sass .feature-wrapper .single-feature-block .img-box {}
   .our-feature-sass .single-feature-block .text-box {max-width: 100%;}
-  .our-feature-sass .single-feature-block {margin-bottom: 150px; background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 14%, rgba(255,255,255,1) 100%);}
+  .our-feature-sass .single-feature-block {margin-bottom: 150px; background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 50%, rgba(255,255,255,1) 100%);}
   #theme-banner-five .mobile-screen-one {right: -10%;}
   #theme-banner-five .mobile-screen-two {right: 11%;}
   .our-service-app .main-content .inner-wrapper p {padding: 0;}
