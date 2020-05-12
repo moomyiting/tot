@@ -52,9 +52,9 @@
   .theme-menu-one.d-align-item .logo {left: 15px;}
   .theme-menu-one.d-align-item #mega-menu-holder {margin-right: 0;}
   #theme-banner-three .main-title span, #theme-banner-three .main-title span b {line-height: initial;}
-  .our-feature-sass .feature-wrapper .single-feature-block .img-box {display: none;}
+  .our-feature-sass .feature-wrapper .single-feature-block .img-box {}
   .our-feature-sass .single-feature-block .text-box {max-width: 100%;}
-  .our-feature-sass .single-feature-block {margin-bottom: 150px;}
+  .our-feature-sass .single-feature-block {margin-bottom: 150px; background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 14%, rgba(255,255,255,1) 100%);}
   #theme-banner-five .mobile-screen-one {right: -10%;}
   #theme-banner-five .mobile-screen-two {right: 11%;}
   .our-service-app .main-content .inner-wrapper p {padding: 0;}
@@ -659,4 +659,44 @@
 @media (max-width: 350px) {
   #isotop-gallery-wrapper .isotop-item .hover-jojo>div p {display: none;}
   .team-minimal .single-team-member .img-box {width: 250px;height: 250px;}
+}
+
+
+@media (max-width: 1200px) {
+  .our-feature-sass .single-feature-block:last-child {
+
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box {
+    width: 80%;
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-one {
+    position: absolute;
+    top:10%;
+    left:20%;
+    filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
+    /*opacity: 40%;*/
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-three {
+    /*opacity: 40%;*/
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-four {
+    position: absolute;
+    top: 25%;
+    left: 70%;
+    height: 50vw;
+    filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
+    /*opacity: 40%;*/
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(odd) .img-box .screen-five {
+    /*opacity: 40%;*/
+  }
+  .our-feature-sass .feature-wrapper .single-feature-block:nth-child(even) .img-box {
+    position: absolute;
+    right: 0px;
+    top: -150px;
+    z-index: -1;
+    width: 70vw;
+    filter: drop-shadow(12px 12px 10px rgba(0, 0, 0, 0.1));
+    /*opacity: 70%;*/
+  }
 }
